@@ -1,2 +1,1 @@
-# percobaan
-Sedang mencoba
+# fb brute
